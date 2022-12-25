@@ -69,16 +69,6 @@ animation:
 	margin: 20px;
 }
 
-#reference {
-	position: absolute;
-	bottom: 0px;
-	left: 10px;
-}
-
-#cssblock {
-	display: flex;
-}
-
 #update {
 	position: absolute;
 	bottom: 10px;
