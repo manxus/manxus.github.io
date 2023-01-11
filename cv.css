@@ -146,13 +146,37 @@ body::-webkit-scrollbar {
   border-radius: 50% ;
 }
 
+.s1 div {
+  display: block;
+}
+
 .s2 div {
   margin-top: 12%;
   margin-left: 5%;
   margin-right: 5%;
 }
 
+.s3 div {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.s1 li {
+  list-style: none;
+  font-size: 25px;
+}
+
 .s2 li {
+  list-style: none;
+  font-size: 25px;
+}
+
+.s3 li {
+  list-style: none;
+  font-size: 25px;
+}
+
+.s4 li {
   list-style: none;
   font-size: 25px;
 }
