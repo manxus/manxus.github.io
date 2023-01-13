@@ -180,3 +180,7 @@ body::-webkit-scrollbar {
   list-style: none;
   font-size: 25px;
 }
+
+.s4 img {
+  padding: 25px;
+}

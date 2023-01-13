@@ -81,7 +81,7 @@ body::-webkit-scrollbar {
   right: 0;
   display: flex;
   justify-content: center;
-  text-align: center;
+  /*text-align: center;*/
   color: var(--color-white);
   font-size: 40px;
   font-weight: 600;
@@ -138,4 +138,9 @@ body::-webkit-scrollbar {
 
 .layout .section-name li {
 	margin-bottom: 68px;
+}
+
+.s1 ul {
+  list-style: none;
+  font-size: 16px;
 }
