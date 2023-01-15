@@ -141,8 +141,17 @@ body::-webkit-scrollbar {
 }
 
 .s1 ul {
-  list-style: none;
   font-size: 16px;
+}
+
+.s1 div {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.s2 div {
+  font-size: 14px;
+  width: 25%;
 }
 
 .s3 img {
