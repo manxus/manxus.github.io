@@ -144,3 +144,27 @@ body::-webkit-scrollbar {
   list-style: none;
   font-size: 16px;
 }
+
+.s3 img {
+  border-radius: 5%;
+  margin: 50px;
+}
+
+.s3 img:hover {
+  scale: 1.1;
+}
+
+.s4 img {
+  border-radius: 5%;
+  margin: 10px;
+  width: 20%;
+  height: 20%;
+}
+
+.s4 img:hover {
+  scale: 1.1;
+}
+
+.s4 div {
+  text-align: center;
+}
