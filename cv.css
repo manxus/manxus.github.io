@@ -184,3 +184,7 @@ body::-webkit-scrollbar {
 .s4 img {
   padding: 25px;
 }
+
+.s4 img:hover {
+  scale: 1.1;
+}
