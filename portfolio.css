@@ -150,14 +150,14 @@ body::-webkit-scrollbar {
 }
 
 .s2 div {
-  font-size: 12px;
+  font-size: 0.7vw;
   width: 25%;
   margin-left: 50px;
   margin-right: 50px;
 }
 
 .s3 img {
-  border-radius: 5%;
+  border-radius: 20px;
   margin: 50px;
 }
 
@@ -166,10 +166,10 @@ body::-webkit-scrollbar {
 }
 
 .s4 img {
-  border-radius: 5%;
+  border-radius: 20px;
   margin: 10px;
   width: 20%;
-  height: 20%;
+  height: auto;
 }
 
 .s4 img:hover {

@@ -163,7 +163,12 @@ body::-webkit-scrollbar {
 
 .s2 li {
   list-style: none;
-  font-size: 25px;
+  font-size: 1.5vw;
+}
+
+.s2 img {
+  width: 100%;
+  height: auto;
 }
 
 .s3 div {
@@ -173,7 +178,12 @@ body::-webkit-scrollbar {
 
 .s3 li {
   list-style: none;
-  font-size: 25px;
+  font-size: 1.5vw;
+}
+
+.s3 img {
+  width: 100%;
+  height: auto;
 }
 
 .s4 li {
