@@ -8,11 +8,18 @@ body {
   -ms-overflow-style: none;
 }
 
-.back{
+.back {
 	position: fixed;
 	left: 20px;
 	top: 20px;
 	z-index: 5;
+}
+
+.contact {
+  position: fixed;
+  right: 20px;
+  top: 20px;
+  z-index: 5;
 }
 
 :root {
@@ -81,7 +88,6 @@ body::-webkit-scrollbar {
   right: 0;
   display: flex;
   justify-content: center;
-  /*text-align: center;*/
   color: var(--color-white);
   font-size: 40px;
   font-weight: 600;
@@ -186,7 +192,6 @@ body::-webkit-scrollbar {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.7);
   transition: opacity 500ms;
   visibility: hidden;
   opacity: 0;
